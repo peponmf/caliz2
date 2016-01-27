@@ -1,0 +1,27 @@
+/* 
+    Document   : style
+    Created on : 14/10/2013, 09:07:26 PM
+    Author     : peponmfmagallanes
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body{
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    background: white;
+    text: black ;
+    link: #e5e5e5;
+    vlink: e0e0e0;
+}
+
+hr{
+    size: 8px;
+    color: navy;
+    width:  100%;
+   
+}
